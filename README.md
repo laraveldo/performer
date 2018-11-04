@@ -1,2 +1,2 @@
 # performer
-A laravel crud builder an themes manager
+A Laravel crud builder and fronted themes manager
