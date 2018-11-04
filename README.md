@@ -1,8 +1,9 @@
 # performer
-A Laravel crud builder and fronted themes manager
 
-A derivative project of the Crudbooster package ( crudbooster.com")
+A Laravel crud builder and fronted themes manager.
 
-This is a Bet versions, not a full working application.
+A derivative project of the Crudbooster package (crudbooster.com).
 
-I still update it.
+This is a Beta test versions, not a full working application.
+
+Pleas, comme back soon to see the updates.
